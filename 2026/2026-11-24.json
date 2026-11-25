@@ -1,0 +1,11 @@
+{
+  "format": "pairtime-day-root-v1",
+  "day": 20781,
+  "date": "2026-11-24",
+  "prev": "a8c3a18d0af48b5415d06cc47de8c46677b03e61928e1775a36ed1e6a4632eb0",
+  "count": 6920,
+  "root": "cb4c7604c7dfa3eddf7dc33a483ecd55e612394c1e37ea12a0a1c5a76d35331b",
+  "head": "4f575d23ddfa85eec3d2f9c41b5f8f6c940e0cab2f4fd50c97862072e7b30365",
+  "key_id": "5bdd16d6a78b248f",
+  "signature": "0cf8d3299fd74cb33cd553c733b38feb15beac6ff3e2689c29bae5fc78ffade23d790f733cac7b4c84b8fc444d6fe9818252175c1f9e4b021bd16a168ff6a101"
+}
